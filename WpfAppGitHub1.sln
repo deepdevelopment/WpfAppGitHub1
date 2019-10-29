@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29418.71
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppGit1", "WpfAppGit1\WpfAppGit1.csproj", "{F8565E63-09C2-4693-AE10-816CB1C80C7E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppGitHub1", "WpfAppGit1\WpfAppGitHub1.csproj", "{F8565E63-09C2-4693-AE10-816CB1C80C7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

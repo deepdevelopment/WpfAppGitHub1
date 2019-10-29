@@ -6,7 +6,18 @@
         xmlns:local="clr-namespace:WpfAppGit1"
         mc:Ignorable="d"
         Title="MainWindow - Git Practice" Height="450" Width="800">
-    <Grid><Button Content="Click to Enter" Click="Button_Click" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-        
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Click to Enter" Click="Button_Click" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1"  Grid.Row="1"/>
+
     </Grid>
 </Window>
