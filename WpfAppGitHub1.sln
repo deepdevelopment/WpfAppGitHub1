@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29418.71
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppGitHub1", "WpfAppGit1\WpfAppGitHub1.csproj", "{F8565E63-09C2-4693-AE10-816CB1C80C7E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppGitHub1", "WpfAppGitHub1\WpfAppGitHub1.csproj", "{F8565E63-09C2-4693-AE10-816CB1C80C7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StandardLibrary", "StandardLibrary\StandardLibrary.csproj", "{87CFCE3A-2511-4809-829F-437ADBCA20F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F8565E63-09C2-4693-AE10-816CB1C80C7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8565E63-09C2-4693-AE10-816CB1C80C7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8565E63-09C2-4693-AE10-816CB1C80C7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87CFCE3A-2511-4809-829F-437ADBCA20F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87CFCE3A-2511-4809-829F-437ADBCA20F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87CFCE3A-2511-4809-829F-437ADBCA20F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87CFCE3A-2511-4809-829F-437ADBCA20F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
